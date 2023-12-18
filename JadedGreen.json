@@ -127,4 +127,8 @@
         "WHITE_500": "#FFFFFF"
     },
     "spec": 2,
+    "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy"
+    }
 }
